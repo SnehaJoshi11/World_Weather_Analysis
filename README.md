@@ -33,7 +33,7 @@ Here we are going use the Google Maps Directions API, to create a travel route b
      - Percent cloudiness
      - Wind speed
      - Weather description (for example, clouds, fog, light rain, clear sky)
-   - Create a csv file and save it.
+   - Create a csv file and save it
    
 **2. Vacation Search:**
 
